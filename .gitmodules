@@ -1,0 +1,3 @@
+[submodule "folder1/submod"]
+	path = folder1/submod
+	url = https://github.com/SeuperHakkerJa/submod
